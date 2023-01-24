@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net_Dependency_Injection", "ASP.Net_Dependency_Injection\ASP.Net_Dependency_Injection.csproj", "{980CC00A-9998-4F45-AE01-E3AE7A4EF702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapon_Kill", "Weapon_Kill\Weapon_Kill.csproj", "{4396C1EB-DBB7-4A01-B9A6-82EA52B70636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980CC00A-9998-4F45-AE01-E3AE7A4EF702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CC00A-9998-4F45-AE01-E3AE7A4EF702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CC00A-9998-4F45-AE01-E3AE7A4EF702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CC00A-9998-4F45-AE01-E3AE7A4EF702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4396C1EB-DBB7-4A01-B9A6-82EA52B70636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4396C1EB-DBB7-4A01-B9A6-82EA52B70636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4396C1EB-DBB7-4A01-B9A6-82EA52B70636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4396C1EB-DBB7-4A01-B9A6-82EA52B70636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0ABC62A-9C6D-4CC0-94D9-BDD7E2D1B4D3}
+	EndGlobalSection
+EndGlobal
